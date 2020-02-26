@@ -24,11 +24,13 @@
 
    Each record represents a shooting incident in NYC and includes information about the event, the location and time of occurrence. In addition, information related to suspect and victim demographics is also included, such as gender, age and race.
 4. **China AQI(Air Quality Index) Data** (http://beijingair.sinaapp.com/)
+
    > Metadata Updated: Feb 23, 2020
 
    This dataset presents the AQI of each city of China and those attributes affect AQI of that city, such as, PM2.5,PM10, SO2, O3 and CO. The time range of this dataset is from 2015/01/01 to 2020/02/23. It contains 340 cities of China. The data is collected hourly, which means each row of the data set is the hourly value of that specific attributes of the specific city.
 
 6. **NYPD Complaint Data** (https://data.cityofnewyork.us/Public-Safety/NYPD-Complaint-Data-Current-Year-To-Date-/5uac-w243/data)
+
    > Metadata Updated: February 7, 2020
 
    This dataset includes all kinds of violation of crimes which reported to the NYPD (New York City Police Department). The time range of this dataset is about from 1974 - 2019. 
@@ -36,6 +38,7 @@
    It described the borough where the incident happened, the date and time the incident gets reported, the date and time it gets completed, and etc. 
   
  7. **2018_Central_Park_Squirrel_Census_-_Squirrel_Data** (https://data.cityofnewyork.us/Environment/2018-Central-Park-Squirrel-Census-Squirrel-Data/vfnx-vebw)
+ 
    > Metadata Updated: October 18, 2019
 
    The data was retrieved from NYC OpenData.
@@ -45,6 +48,7 @@
    The information of longitude and latitude coordinate for the sighting point, the hectare from which the quirrel was spotted, date, age, fur color, actions, interactions with other squirrels are included in the dataset.
 
  7. **Citywide Payroll Data** (https://data.cityofnewyork.us/City-Government/Citywide-Payroll-Data-Fiscal-Year-/k397-673e)
+ 
    > Metadata Updated: February 7, 2020
 
    The data was retrieved from NYC OpenData.
