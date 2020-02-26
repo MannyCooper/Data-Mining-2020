@@ -54,3 +54,34 @@
    The data was retrieved from NYC OpenData.
    
    This dataset includes yearly final salary of all municipal employee except from some agencies like NYPD and the District Attorneys’ Offices from the year 2014 to 2019. There are 3.33 million records in total, containing agency, names, work location borough, job title description, leave status, base salary, regular gross paid, overtime hours worked, total overtime paid, and total other compensation information of each employee.
+   
+8. **Bridge Data** (https://catalog.data.gov/dataset/bridges-f1b2b)
+
+   >Metadata Updated: November 27, 2019 
+   
+   >Feature layer containing authoritative bridge points for Sioux Falls, South Dakota.
+   
+   This data set is about the different bridges. The number of the data is 93 in total. There are many features of the bridges, such as the location, name, structure number, install year and sufficiency rating. And there are more information of the physical information of those bridges.
+
+9. **2013-2019_Attendance_Results** (https://catalog.data.gov/dataset/2013-2019-attendance-results-citywide)
+   
+   > Metadata Updated: February 19, 2020 
+   
+   > Attendance data includes students in district 1-32, 75 (Special Education), district 79 (Alternative Schools & Programs), charter schools, home schooling.
+   
+   This data is about the attendance of students in 1 to 12 grades. We can se the total days, absent days, and different kinds of absence of the students. The information is also include the schools of the students. 
+   
+
+10. **Energy_Incentive_Program** (https://catalog.data.gov/dataset/energy-incentive-program-eip-fy-2015-2019)
+
+   >Metadata Updated: January 16, 2020 
+   
+   >The Oregon Department of Energy’s Energy Incentive Program (EIP) issued tax credits to Oregon businesses, public agencies, and nonprofits that invested in energy conservation or transportation projects.
+   
+   In this data set we can find the data of Oregon Department of Energy. We can find the energy saved in different programs. And we can find the years, name, city address and kWh Savings of the programs. So from the information, we can know the energy saving in different years.
+   
+   
+   
+   
+   
+   
